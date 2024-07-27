@@ -1,7 +1,7 @@
 
 # Connect with me
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:karensartori7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:karensartori7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/karen-sartori-6baaa4272/)
 [![Instagran](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8134AF)](https://www.instagram.com/karen_sartorii/)
 
 
