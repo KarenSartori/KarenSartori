@@ -7,14 +7,7 @@
 
 
 ## Stacks
-![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=2b58de)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=2b58de)
-
+[![My Skills](https://skillicons.dev/icons?i=java,php,js,mysql,postgresql,html,css,c,cpp,flutter,dart&theme=dark)](https://skillicons.dev)  
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KarenSartori&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
