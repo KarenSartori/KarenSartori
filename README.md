@@ -10,8 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,php,js,mysql,postgresql,html,css,c,cpp,flutter,dart&theme=dark)](https://skillicons.dev)  
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KarenSartori&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karensartori&layout=compact)](https://github.com/karensartori/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarenSartori/KarenSartori/output/github-contribution-grid-snake-dark.svg">
